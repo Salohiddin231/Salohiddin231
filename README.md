@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Салходдин Давлетов</h1>
+<h1 align="center">👋 Привет, я Салохиддин Давлетов</h1>
 
 <p align="center">
   🧑‍💻 Junior Frontend Developer <br/>
@@ -44,8 +44,8 @@
 
 ## 📫 Связаться со мной
 
-- Telegram: [@salhoddin](https://t.me/salhoddin)
-- Email: <salhoddin@example.com> <!-- замени на свою почту -->
+- Telegram: [@salohiddin](https://t.me/shumzet231)
+- Gmail: <davletovsalohiddin231@gmail.com> <!-- замени на свою почту -->
 
 ---
 
